@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sravya-anupoju
 - 👀 I’m interested in reading Novels and coding 🤩
-- 🌱 I’m currently learning pyhton and data structures.
+- 🌱 I’m currently working on Machine learning
 - 📫 How to reach me : drop me a mail at sravyaanupoju@gmail.com
 
 <!---
